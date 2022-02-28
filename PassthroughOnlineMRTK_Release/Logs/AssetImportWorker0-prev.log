@@ -1,0 +1,812 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1526; Version 2009; 64bit' Language: 'en' Physical Memory: 65337 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56158
+Successfully changed project path to: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1
+D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 57.89 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.72 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1ed0)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   30.0.14.7135
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001449 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.49 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.231 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002690 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.52 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.69.0
+Mono: successfully reloaded assembly
+- Completed reload, in  1.264 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 2884 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.8 MB.
+System memory in use after: 132.5 MB.
+
+Unloading 446 unused Assets to reduce memory usage. Loaded Objects now: 3244.
+Total: 2.496800 ms (FindLiveObjects: 0.308500 ms CreateObjectMapping: 0.145000 ms MarkObjects: 1.708000 ms  DeleteObjects: 0.334500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/bolts_Normal.png
+  artifactKey: Guid(1095023dcc0bb5d4c929538fb4e9e7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bolts_Normal.png using Guid(1095023dcc0bb5d4c929538fb4e9e7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bf6bf99b51289d0f3f722eb8483b4e') in 0.079794 seconds
+  Import took 0.083299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/outer_shell_metallic.png
+  artifactKey: Guid(793cab6d1ac88f4428f3a71288acce74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/outer_shell_metallic.png using Guid(793cab6d1ac88f4428f3a71288acce74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7818f2f990f3ec0bd6424d29982b4eb') in 0.079620 seconds
+  Import took 0.083446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/24_AWG_Inst_metallic.png
+  artifactKey: Guid(ebf44f4b8fa3d9b49b364b078bd16a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/24_AWG_Inst_metallic.png using Guid(ebf44f4b8fa3d9b49b364b078bd16a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f476953f30372a76e30049342ef6c68') in 0.078385 seconds
+  Import took 0.081943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Rotor_Shell_Metallic.png
+  artifactKey: Guid(619a939b250c29c40916fa8abe0bb172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rotor_Shell_Metallic.png using Guid(619a939b250c29c40916fa8abe0bb172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8191829368dc6d28403f1b693e09924e') in 0.062537 seconds
+  Import took 0.066027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/rotor_stator_innards_roughness.png
+  artifactKey: Guid(51a5f120117196f4c93d8ebaf782100b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rotor_stator_innards_roughness.png using Guid(51a5f120117196f4c93d8ebaf782100b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ac57cc3728600d061bc25fdbfa661d') in 0.062797 seconds
+  Import took 0.066382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Outer_Shell_BaseColor.png
+  artifactKey: Guid(42c152ad5bffeeb418741be02cebed97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Outer_Shell_BaseColor.png using Guid(42c152ad5bffeeb418741be02cebed97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51aa282b97cc3575a68ce82a895234f1') in 0.069449 seconds
+  Import took 0.073559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/slip_ring_interface_normal.png
+  artifactKey: Guid(7462e1f8c4ddf8740bbd672da9b3e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/slip_ring_interface_normal.png using Guid(7462e1f8c4ddf8740bbd672da9b3e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '246697d9664295f9bdb56cec7c25df14') in 0.081508 seconds
+  Import took 0.085057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/bolts_Roughness.png
+  artifactKey: Guid(546450c2d80599e438317df1ae8a6a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bolts_Roughness.png using Guid(546450c2d80599e438317df1ae8a6a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42123a75e2cd7aafae29dca78711c2e') in 0.014112 seconds
+  Import took 0.017813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Rotor_Shell_Normal.png
+  artifactKey: Guid(bae416940b2c546419eae4e874545612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rotor_Shell_Normal.png using Guid(bae416940b2c546419eae4e874545612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9e75b99907f94435b24e21c10a3ebc') in 0.054849 seconds
+  Import took 0.058260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/rotor_stator_innards_BaseColor.png
+  artifactKey: Guid(fc2436ec6ce83e3448c47d7c40beabea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rotor_stator_innards_BaseColor.png using Guid(fc2436ec6ce83e3448c47d7c40beabea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16d8ef4de740a753135411c0a72c285') in 0.066563 seconds
+  Import took 0.070232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/slip_ring_interface_metallic.png
+  artifactKey: Guid(f5366a949e2580b458f5abb0da6567a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/slip_ring_interface_metallic.png using Guid(f5366a949e2580b458f5abb0da6567a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea037b680e672ddfb2a6df2e15c7251b') in 0.062052 seconds
+  Import took 0.065593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/motor_housing_ab_Base_color.png
+  artifactKey: Guid(9d9b633d91235a9418b068c5179e2e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/motor_housing_ab_Base_color.png using Guid(9d9b633d91235a9418b068c5179e2e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a632eb38263bf8ce9a7af946ad0759c5') in 0.061383 seconds
+  Import took 0.064880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Cryocooler_normal.png
+  artifactKey: Guid(48e56149d67f5804785426ced214960d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cryocooler_normal.png using Guid(48e56149d67f5804785426ced214960d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6545740aba57adc7c8b3d898040b1e') in 0.054580 seconds
+  Import took 0.058315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/slip_ring_interface_roughness.png
+  artifactKey: Guid(f7e862346ab98974d84d1cdea97aa6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/slip_ring_interface_roughness.png using Guid(f7e862346ab98974d84d1cdea97aa6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5f86703a00d53aeef87856dd724d2d') in 0.064530 seconds
+  Import took 0.068147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Cryocooler_metallic.png
+  artifactKey: Guid(c90abf30cd1d67d41a6f1fdec5537af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cryocooler_metallic.png using Guid(c90abf30cd1d67d41a6f1fdec5537af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee5d7ebc59ffdfbb04d4493ff84ac3d') in 0.068831 seconds
+  Import took 0.072375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/slip_ring_interface_Base_color.png
+  artifactKey: Guid(3839ac8a4c519a24a9409ea1803d408b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/slip_ring_interface_Base_color.png using Guid(3839ac8a4c519a24a9409ea1803d408b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4820e01c9f2c7a1c0e671b82ec585485') in 0.068556 seconds
+  Import took 0.072197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/motor_housing_ab_normal.png
+  artifactKey: Guid(cad0357afc2434a428bc17fcaf1e0a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/motor_housing_ab_normal.png using Guid(cad0357afc2434a428bc17fcaf1e0a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c13ac2a85531f848f985056fd01610') in 0.064949 seconds
+  Import took 0.068660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/rotor_stator_innards_normal.png
+  artifactKey: Guid(d0e7f5e4ef0c19e43bad216068f895af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rotor_stator_innards_normal.png using Guid(d0e7f5e4ef0c19e43bad216068f895af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca2c3d6505cd145092b3e72aa808962') in 0.065864 seconds
+  Import took 0.070108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Rotor_Shell_Base_Color.png
+  artifactKey: Guid(05d84114c4da3094eb8ad4d7621d4bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rotor_Shell_Base_Color.png using Guid(05d84114c4da3094eb8ad4d7621d4bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2c97433e7800b2267c4427e0df377b') in 0.064997 seconds
+  Import took 0.068640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Rotor_Shell_Roughness.png
+  artifactKey: Guid(5cbcd8b0029e2cd4998e4072d357d0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rotor_Shell_Roughness.png using Guid(5cbcd8b0029e2cd4998e4072d357d0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce453f73ea5d3f53424556efd5a0cc5') in 0.073060 seconds
+  Import took 0.076846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/24_AWG_Inst_roughness.png
+  artifactKey: Guid(fd98e39cf2a19984bad562c6879f7194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/24_AWG_Inst_roughness.png using Guid(fd98e39cf2a19984bad562c6879f7194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de734d6bf3a137aa76d3b667e97604f8') in 0.061324 seconds
+  Import took 0.065505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/outer_shell_normal.png
+  artifactKey: Guid(f67a5a1cb2a23da4bb04440ccd0c9a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/outer_shell_normal.png using Guid(f67a5a1cb2a23da4bb04440ccd0c9a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2dfe24cd687dbba2fd65009ab7bfd3') in 0.061684 seconds
+  Import took 0.066152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/motor_housing_ab_roughness.png
+  artifactKey: Guid(da6f31ad6f90d72428f6830494df7755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/motor_housing_ab_roughness.png using Guid(da6f31ad6f90d72428f6830494df7755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3679c12ee22f3d17f2f29480e9e2d81') in 0.064910 seconds
+  Import took 0.068502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/bolts_Metallic.png
+  artifactKey: Guid(bc1e8752b4b40904cb0ae2b66522f808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bolts_Metallic.png using Guid(bc1e8752b4b40904cb0ae2b66522f808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ae3a9601d1a473d81fdd908a3a579b') in 0.013757 seconds
+  Import took 0.017234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/rotor_stator_innards_metallic.png
+  artifactKey: Guid(64f30c84daabef74d8d9d65da4aff03f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rotor_stator_innards_metallic.png using Guid(64f30c84daabef74d8d9d65da4aff03f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2f421fdf4cdcdd80de87d06cb01ce8') in 0.063943 seconds
+  Import took 0.067560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/motor_housing_ab_metallic.png
+  artifactKey: Guid(3965e1c32ebbf564f8474e010177054a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/motor_housing_ab_metallic.png using Guid(3965e1c32ebbf564f8474e010177054a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a8110a19f4f5e7a1304477e980bb43') in 0.062618 seconds
+  Import took 0.065939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/outer_shell_roughness.png
+  artifactKey: Guid(fe2aaa9222528e745ae22b7de4ba2cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/outer_shell_roughness.png using Guid(fe2aaa9222528e745ae22b7de4ba2cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcecdf3510dfa2c116073a7dd4892710') in 0.065176 seconds
+  Import took 0.068549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/24_AWG_Inst_Base_color.png
+  artifactKey: Guid(23950995af140a54285ecb1816ee261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/24_AWG_Inst_Base_color.png using Guid(23950995af140a54285ecb1816ee261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a9612b647a7f1bc05f89e9668651d8') in 0.061702 seconds
+  Import took 0.065286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Cryocooler_Base_color.png
+  artifactKey: Guid(0af5edb343096fb4eacdce76bb3f5d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cryocooler_Base_color.png using Guid(0af5edb343096fb4eacdce76bb3f5d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f9b599492d9338ff3a6fe73cc4d5ed') in 0.060801 seconds
+  Import took 0.064192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Cryocooler_roughness.png
+  artifactKey: Guid(de44780c6b6e3f54a8fb4e6280410897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cryocooler_roughness.png using Guid(de44780c6b6e3f54a8fb4e6280410897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389abbb4fec460427bab87fad0fac427') in 0.065552 seconds
+  Import took 0.068946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/24_AWG_Inst_normal.png
+  artifactKey: Guid(02cf5f06d8574ca43b64c5a911d3649e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/24_AWG_Inst_normal.png using Guid(02cf5f06d8574ca43b64c5a911d3649e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a85d443d35b9dd3604838367837a8a') in 0.054698 seconds
+  Import took 0.058363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/bolts_Base_color.png
+  artifactKey: Guid(852c6630ff5033a4db5902f5e084125c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bolts_Base_color.png using Guid(852c6630ff5033a4db5902f5e084125c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b80e13c825fcfac8147313c095c13f0') in 0.011996 seconds
+  Import took 0.015458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.668418 seconds.
+  path: Assets/24_AWG_Inst_Base_color.png
+  artifactKey: Guid(23950995af140a54285ecb1816ee261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/24_AWG_Inst_Base_color.png using Guid(23950995af140a54285ecb1816ee261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a9612b647a7f1bc05f89e9668651d8') in 0.062981 seconds
+  Import took 0.066851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 442.450079 seconds.
+  path: Assets/MRTK-Online-2/Examples/HEMM_MRTK-Quest_2.5_Examples_Online.unity
+  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/HEMM_MRTK-Quest_2.5_Examples_Online.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5776ae765392337d437829024a974d') in 0.006305 seconds
+  Import took 0.010751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.794236 seconds.
+  path: Assets/MRTK-Online-2/Examples/W7_MRTK-Quest_2.5_Examples_Online 1.unity
+  artifactKey: Guid(f8b55650d4a6af346bb3ca141403b9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/W7_MRTK-Quest_2.5_Examples_Online 1.unity using Guid(f8b55650d4a6af346bb3ca141403b9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678721fbdd5d28a6b848b44ffc9e7c89') in 2.023672 seconds
+  Import took 2.668454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.960442 seconds.
+  path: Assets/MRTK-Online-2/Examples/W7_MRTK-Quest_2.5_Examples_Online 1.unity
+  artifactKey: Guid(f8b55650d4a6af346bb3ca141403b9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/W7_MRTK-Quest_2.5_Examples_Online 1.unity using Guid(f8b55650d4a6af346bb3ca141403b9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678721fbdd5d28a6b848b44ffc9e7c89') in 0.003179 seconds
+  Import took 0.007559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.152344 seconds.
+  path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
+  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20fe2a36630834d592a71798854960d5') in 0.010172 seconds
+  Import took 0.084028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.495915 seconds.
+  path: Assets/MRTK-Online-2/Examples/HEMM_MRTK-Quest_2.5_Examples_OnlineSettings.lighting
+  artifactKey: Guid(2671e531747660449b80431fc6b4b8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/HEMM_MRTK-Quest_2.5_Examples_OnlineSettings.lighting using Guid(2671e531747660449b80431fc6b4b8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042e17ed713cbccacc285d839ed782b8') in 0.363420 seconds
+  Import took 0.488785 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.24 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.7 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3246.
+Total: 3.270000 ms (FindLiveObjects: 0.326100 ms CreateObjectMapping: 0.124900 ms MarkObjects: 2.792900 ms  DeleteObjects: 0.025300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 676.929897 seconds.
+  path: Assets/MRTK-Online-2/Art/Branding/MRTK-Online_Banner.png
+  artifactKey: Guid(9748b5fd2e33b1a4c8269d1ffa29a09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Art/Branding/MRTK-Online_Banner.png using Guid(9748b5fd2e33b1a4c8269d1ffa29a09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d40736ec58cf38b6fc622a2fe15b90a') in 0.038821 seconds
+  Import took 0.043642 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 5.83 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.6 MB.
+System memory in use after: 70.8 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3251.
+Total: 3.493600 ms (FindLiveObjects: 0.313700 ms CreateObjectMapping: 0.118000 ms MarkObjects: 3.034500 ms  DeleteObjects: 0.026400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.892 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 131.3 MB.
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3255.
+Total: 2.146600 ms (FindLiveObjects: 0.269800 ms CreateObjectMapping: 0.093100 ms MarkObjects: 1.682500 ms  DeleteObjects: 0.100500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002501 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 131.4 MB.
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3259.
+Total: 2.515600 ms (FindLiveObjects: 0.402200 ms CreateObjectMapping: 0.143600 ms MarkObjects: 1.855300 ms  DeleteObjects: 0.113500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.02 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.1 MB.
+System memory in use after: 69.4 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3259.
+Total: 3.176300 ms (FindLiveObjects: 0.336900 ms CreateObjectMapping: 0.178100 ms MarkObjects: 2.637000 ms  DeleteObjects: 0.023200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2428.746469 seconds.
+  path: Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/SmallRoom.fbx
+  artifactKey: Guid(78906942dba6db24ca155679a45f60ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/SmallRoom.fbx using Guid(78906942dba6db24ca155679a45f60ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3202f28272c35147b26431ddf24513') in 0.196874 seconds
+  Import took 0.201858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+  artifactKey: Guid(5ba7d209f622bb44e87b47ce27ee27b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Materials/BasicHandMaterial.mat using Guid(5ba7d209f622bb44e87b47ce27ee27b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '548d031e70a093ed0d0dac0d71d9f775') in 0.128139 seconds
+  Import took 0.131836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Models/MRDeskShadow.fbx
+  artifactKey: Guid(bb5c416ca94f7a34fbd14f26fa5a38e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Models/MRDeskShadow.fbx using Guid(bb5c416ca94f7a34fbd14f26fa5a38e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb12bfe199c25c54255359c7e70313ac') in 0.014370 seconds
+  Import took 0.017787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/CH.png
+  artifactKey: Guid(5e6531e8f56b42547b8d2ddf7a7363d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/CH.png using Guid(5e6531e8f56b42547b8d2ddf7a7363d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0d925e3921da55d111f36a1d46efe6') in 0.012894 seconds
+  Import took 0.016512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99846f5a5cef2b9fb3476a6a84d35918') in 0.007994 seconds
+  Import took 0.011347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003035 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99846f5a5cef2b9fb3476a6a84d35918') in 0.002763 seconds
+  Import took 0.006399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.662595 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Materials/HolographicBackPlateNoBorder_Light_Blue.mat
+  artifactKey: Guid(c0e93915e1830654bbe2550ab932521a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Materials/HolographicBackPlateNoBorder_Light_Blue.mat using Guid(c0e93915e1830654bbe2550ab932521a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0313bfad8d9fc2411102ec928bf55108') in 0.049156 seconds
+  Import took 0.053040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.128316 seconds.
+  path: Assets/MRTK/Shaders/MixedRealityStandard.shader
+  artifactKey: Guid(5bdea20278144b11916d77503ba1467a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Shaders/MixedRealityStandard.shader using Guid(5bdea20278144b11916d77503ba1467a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b582502f8f58741fd827fb4e26eb4b8c') in 0.007059 seconds
+  Import took 0.010915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001281 seconds.
+  path: Assets/MRTK/Shaders/MixedRealityStandard.shader
+  artifactKey: Guid(5bdea20278144b11916d77503ba1467a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Shaders/MixedRealityStandard.shader using Guid(5bdea20278144b11916d77503ba1467a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b582502f8f58741fd827fb4e26eb4b8c') in 0.002656 seconds
+  Import took 0.006134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.199065 seconds.
+  path: Assets/MRTK/Shaders/MRTK_Wireframe.shader
+  artifactKey: Guid(5c1653eb4e20b76499141de7bc57c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Shaders/MRTK_Wireframe.shader using Guid(5c1653eb4e20b76499141de7bc57c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb4d5ff34bd5869922c592c6b3c1c46') in 0.006387 seconds
+  Import took 0.010324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001102 seconds.
+  path: Assets/MRTK/Shaders/MRTK_Wireframe.shader
+  artifactKey: Guid(5c1653eb4e20b76499141de7bc57c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Shaders/MRTK_Wireframe.shader using Guid(5c1653eb4e20b76499141de7bc57c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb4d5ff34bd5869922c592c6b3c1c46') in 0.002522 seconds
+  Import took 0.006096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.732111 seconds.
+  path: Assets/MRTK/Shaders/InvisibleShader.shader
+  artifactKey: Guid(54ea9f30be414d86a7260eceb330c449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Shaders/InvisibleShader.shader using Guid(54ea9f30be414d86a7260eceb330c449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ec1f7bf01f417dd1db678c660515de') in 0.005596 seconds
+  Import took 0.009471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.889485 seconds.
+  path: Assets/MRTK/Shaders/InstancedColored.shader
+  artifactKey: Guid(d199a2ca60343bb49ad9a41ddb45a083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Shaders/InstancedColored.shader using Guid(d199a2ca60343bb49ad9a41ddb45a083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f04f8217a3341014de206686ff129d5') in 0.005683 seconds
+  Import took 0.009545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.219687 seconds.
+  path: Assets/MRTK/Shaders
+  artifactKey: Guid(db44f841653189240ac6d88a1a6b6d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK/Shaders using Guid(db44f841653189240ac6d88a1a6b6d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97df3d38e4204fe143561e0e7ca4548c') in 0.005509 seconds
+  Import took 0.009416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.985343 seconds.
+  path: Assets/Oculus/Platform/Scripts/Models/NetworkingPeer.cs
+  artifactKey: Guid(88e2e0a11ed7e054da26c78d6bd1283f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Platform/Scripts/Models/NetworkingPeer.cs using Guid(88e2e0a11ed7e054da26c78d6bd1283f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba22facdea525a4f3f34881a75d5cfe7') in 0.008745 seconds
+  Import took 0.012744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.576555 seconds.
+  path: Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs
+  artifactKey: Guid(db32660070d5d8e45ae9af22e105df1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs using Guid(db32660070d5d8e45ae9af22e105df1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1928b06948507f0b77f55b72604296') in 0.005347 seconds
+  Import took 0.009085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004114 seconds.
+  path: Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs
+  artifactKey: Guid(db32660070d5d8e45ae9af22e105df1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs using Guid(db32660070d5d8e45ae9af22e105df1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1928b06948507f0b77f55b72604296') in 0.002542 seconds
+  Import took 0.006262 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 5.75 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.8 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3299.
+Total: 3.032900 ms (FindLiveObjects: 0.253400 ms CreateObjectMapping: 0.115000 ms MarkObjects: 2.644300 ms  DeleteObjects: 0.019400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002590 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.1 MB.
+System memory in use after: 131.9 MB.
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3303.
+Total: 2.147600 ms (FindLiveObjects: 0.269600 ms CreateObjectMapping: 0.101000 ms MarkObjects: 1.673100 ms  DeleteObjects: 0.103000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.939 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 2759 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.1 MB.
+System memory in use after: 132.0 MB.
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3308.
+Total: 2.080000 ms (FindLiveObjects: 0.291300 ms CreateObjectMapping: 0.138600 ms MarkObjects: 1.537600 ms  DeleteObjects: 0.111600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002517 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.915 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 2759 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.1 MB.
+System memory in use after: 132.0 MB.
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3312.
+Total: 2.286100 ms (FindLiveObjects: 0.284100 ms CreateObjectMapping: 0.105100 ms MarkObjects: 1.786900 ms  DeleteObjects: 0.109000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 5.90 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.7 MB.
+System memory in use after: 70.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3312.
+Total: 2.432800 ms (FindLiveObjects: 0.323100 ms CreateObjectMapping: 0.166800 ms MarkObjects: 1.923300 ms  DeleteObjects: 0.019100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 2759 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.2 MB.
+System memory in use after: 132.0 MB.
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3316.
+Total: 2.133200 ms (FindLiveObjects: 0.241400 ms CreateObjectMapping: 0.107800 ms MarkObjects: 1.680800 ms  DeleteObjects: 0.102600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.35 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.7 MB.
+System memory in use after: 70.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3316.
+Total: 2.321100 ms (FindLiveObjects: 0.351500 ms CreateObjectMapping: 0.162500 ms MarkObjects: 1.785400 ms  DeleteObjects: 0.020900 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.10 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.7 MB.
+System memory in use after: 70.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3316.
+Total: 2.995600 ms (FindLiveObjects: 0.357500 ms CreateObjectMapping: 0.169600 ms MarkObjects: 2.445200 ms  DeleteObjects: 0.022500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
