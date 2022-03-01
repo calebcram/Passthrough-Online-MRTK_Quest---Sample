@@ -15,6 +15,8 @@ public class TogglePassthroughButton : MonoBehaviour
     public GameObject InteractableObject6;
     public GameObject InteractableObject7;
     public GameObject InteractableObject8;
+    public GameObject InteractableObject9;
+    public GameObject AllInteractableObjects;
 
     //Functionallity to toggle each respective game object
     public void ToggleEnvironment()
@@ -95,5 +97,21 @@ public class TogglePassthroughButton : MonoBehaviour
             InteractableObject8.SetActive(false);
         else
             InteractableObject8.SetActive(true);
+    }
+
+    public void ToggleInteractableObject9()
+    {
+        if (InteractableObject9.activeInHierarchy == true)
+            InteractableObject9.SetActive(false);
+        else
+            InteractableObject9.SetActive(true);
+    }
+
+    public void ToggleAllInteractableObject()
+    {
+        if (AllInteractableObjects.activeInHierarchy == true)
+            AllInteractableObjects.SetActive(false);
+        else
+            AllInteractableObjects.SetActive(true);
     }
 }

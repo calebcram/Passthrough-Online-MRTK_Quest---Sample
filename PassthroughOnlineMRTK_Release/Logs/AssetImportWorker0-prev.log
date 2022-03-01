@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1
+C:/Users/caleb/OneDrive/Desktop/PassthroughMRTKOnline_GithubRelease/PassthroughOnlineMRTK_Release/PassthroughOnlineMRTK_Release
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56158
-Successfully changed project path to: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1
-D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1
+57854
+Successfully changed project path to: C:/Users/caleb/OneDrive/Desktop/PassthroughMRTKOnline_GithubRelease/PassthroughOnlineMRTK_Release/PassthroughOnlineMRTK_Release
+C:/Users/caleb/OneDrive/Desktop/PassthroughMRTKOnline_GithubRelease/PassthroughOnlineMRTK_Release/PassthroughOnlineMRTK_Release
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 57.89 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.72 ms.
+Refreshing native plugins compatible for Editor in 63.15 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.88 ms.
 Initialize engine version: 2020.3.8f1 (507919d4fff5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Assets
+[Subsystems] Discovering subsystems at path C:/Users/caleb/OneDrive/Desktop/PassthroughMRTKOnline_GithubRelease/PassthroughOnlineMRTK_Release/PassthroughOnlineMRTK_Release/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -36,777 +36,1657 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56696
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001449 seconds.
+Registered in 0.001522 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 48.49 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
+Refreshing native plugins compatible for Editor in 49.53 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.231 seconds
+- Completed reload, in  1.214 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002690 seconds.
+Registered in 0.003960 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 48.52 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
+Refreshing native plugins compatible for Editor in 48.61 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
 [XR] Oculus Input lifecycle provider registered.
 [XR] Unable to register input lifecyle provider: [1]
 [XR] OVRP version 1.69.0
 Mono: successfully reloaded assembly
-- Completed reload, in  1.264 seconds
+- Completed reload, in  1.258 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.84 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
-Unloading 2884 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.8 MB.
-System memory in use after: 132.5 MB.
+Refreshing native plugins compatible for Editor in 0.88 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 2856 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.6 MB.
+System memory in use after: 130.3 MB.
 
-Unloading 446 unused Assets to reduce memory usage. Loaded Objects now: 3244.
-Total: 2.496800 ms (FindLiveObjects: 0.308500 ms CreateObjectMapping: 0.145000 ms MarkObjects: 1.708000 ms  DeleteObjects: 0.334500 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/bolts_Normal.png
-  artifactKey: Guid(1095023dcc0bb5d4c929538fb4e9e7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bolts_Normal.png using Guid(1095023dcc0bb5d4c929538fb4e9e7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bf6bf99b51289d0f3f722eb8483b4e') in 0.079794 seconds
-  Import took 0.083299 seconds .
+Unloading 436 unused Assets to reduce memory usage. Loaded Objects now: 3229.
+Total: 3.507200 ms (FindLiveObjects: 0.316800 ms CreateObjectMapping: 0.134600 ms MarkObjects: 2.488300 ms  DeleteObjects: 0.566600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/outer_shell_metallic.png
-  artifactKey: Guid(793cab6d1ac88f4428f3a71288acce74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/outer_shell_metallic.png using Guid(793cab6d1ac88f4428f3a71288acce74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7818f2f990f3ec0bd6424d29982b4eb') in 0.079620 seconds
-  Import took 0.083446 seconds .
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickFloorMaterial.mat
+  artifactKey: Guid(08fa7172ba2185740bae014bca6c2270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickFloorMaterial.mat using Guid(08fa7172ba2185740bae014bca6c2270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e65babe3486c4cc3276509075cf8bf') in 0.118119 seconds
+  Import took 0.122575 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/24_AWG_Inst_metallic.png
-  artifactKey: Guid(ebf44f4b8fa3d9b49b364b078bd16a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/24_AWG_Inst_metallic.png using Guid(ebf44f4b8fa3d9b49b364b078bd16a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f476953f30372a76e30049342ef6c68') in 0.078385 seconds
-  Import took 0.081943 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Rotor_Shell_Metallic.png
-  artifactKey: Guid(619a939b250c29c40916fa8abe0bb172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rotor_Shell_Metallic.png using Guid(619a939b250c29c40916fa8abe0bb172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8191829368dc6d28403f1b693e09924e') in 0.062537 seconds
-  Import took 0.066027 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/rotor_stator_innards_roughness.png
-  artifactKey: Guid(51a5f120117196f4c93d8ebaf782100b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/rotor_stator_innards_roughness.png using Guid(51a5f120117196f4c93d8ebaf782100b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ac57cc3728600d061bc25fdbfa661d') in 0.062797 seconds
-  Import took 0.066382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/Outer_Shell_BaseColor.png
-  artifactKey: Guid(42c152ad5bffeeb418741be02cebed97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Outer_Shell_BaseColor.png using Guid(42c152ad5bffeeb418741be02cebed97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51aa282b97cc3575a68ce82a895234f1') in 0.069449 seconds
-  Import took 0.073559 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/slip_ring_interface_normal.png
-  artifactKey: Guid(7462e1f8c4ddf8740bbd672da9b3e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/slip_ring_interface_normal.png using Guid(7462e1f8c4ddf8740bbd672da9b3e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '246697d9664295f9bdb56cec7c25df14') in 0.081508 seconds
-  Import took 0.085057 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/bolts_Roughness.png
-  artifactKey: Guid(546450c2d80599e438317df1ae8a6a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bolts_Roughness.png using Guid(546450c2d80599e438317df1ae8a6a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42123a75e2cd7aafae29dca78711c2e') in 0.014112 seconds
-  Import took 0.017813 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Rotor_Shell_Normal.png
-  artifactKey: Guid(bae416940b2c546419eae4e874545612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rotor_Shell_Normal.png using Guid(bae416940b2c546419eae4e874545612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9e75b99907f94435b24e21c10a3ebc') in 0.054849 seconds
-  Import took 0.058260 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/rotor_stator_innards_BaseColor.png
-  artifactKey: Guid(fc2436ec6ce83e3448c47d7c40beabea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/rotor_stator_innards_BaseColor.png using Guid(fc2436ec6ce83e3448c47d7c40beabea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16d8ef4de740a753135411c0a72c285') in 0.066563 seconds
-  Import took 0.070232 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/slip_ring_interface_metallic.png
-  artifactKey: Guid(f5366a949e2580b458f5abb0da6567a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/slip_ring_interface_metallic.png using Guid(f5366a949e2580b458f5abb0da6567a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea037b680e672ddfb2a6df2e15c7251b') in 0.062052 seconds
-  Import took 0.065593 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/motor_housing_ab_Base_color.png
-  artifactKey: Guid(9d9b633d91235a9418b068c5179e2e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/motor_housing_ab_Base_color.png using Guid(9d9b633d91235a9418b068c5179e2e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a632eb38263bf8ce9a7af946ad0759c5') in 0.061383 seconds
-  Import took 0.064880 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Cryocooler_normal.png
-  artifactKey: Guid(48e56149d67f5804785426ced214960d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cryocooler_normal.png using Guid(48e56149d67f5804785426ced214960d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6545740aba57adc7c8b3d898040b1e') in 0.054580 seconds
-  Import took 0.058315 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/slip_ring_interface_roughness.png
-  artifactKey: Guid(f7e862346ab98974d84d1cdea97aa6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/slip_ring_interface_roughness.png using Guid(f7e862346ab98974d84d1cdea97aa6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5f86703a00d53aeef87856dd724d2d') in 0.064530 seconds
-  Import took 0.068147 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/Cryocooler_metallic.png
-  artifactKey: Guid(c90abf30cd1d67d41a6f1fdec5537af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cryocooler_metallic.png using Guid(c90abf30cd1d67d41a6f1fdec5537af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee5d7ebc59ffdfbb04d4493ff84ac3d') in 0.068831 seconds
-  Import took 0.072375 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/slip_ring_interface_Base_color.png
-  artifactKey: Guid(3839ac8a4c519a24a9409ea1803d408b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/slip_ring_interface_Base_color.png using Guid(3839ac8a4c519a24a9409ea1803d408b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4820e01c9f2c7a1c0e671b82ec585485') in 0.068556 seconds
-  Import took 0.072197 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/motor_housing_ab_normal.png
-  artifactKey: Guid(cad0357afc2434a428bc17fcaf1e0a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/motor_housing_ab_normal.png using Guid(cad0357afc2434a428bc17fcaf1e0a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c13ac2a85531f848f985056fd01610') in 0.064949 seconds
-  Import took 0.068660 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/rotor_stator_innards_normal.png
-  artifactKey: Guid(d0e7f5e4ef0c19e43bad216068f895af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/rotor_stator_innards_normal.png using Guid(d0e7f5e4ef0c19e43bad216068f895af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca2c3d6505cd145092b3e72aa808962') in 0.065864 seconds
-  Import took 0.070108 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/Rotor_Shell_Base_Color.png
-  artifactKey: Guid(05d84114c4da3094eb8ad4d7621d4bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rotor_Shell_Base_Color.png using Guid(05d84114c4da3094eb8ad4d7621d4bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2c97433e7800b2267c4427e0df377b') in 0.064997 seconds
-  Import took 0.068640 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Rotor_Shell_Roughness.png
-  artifactKey: Guid(5cbcd8b0029e2cd4998e4072d357d0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rotor_Shell_Roughness.png using Guid(5cbcd8b0029e2cd4998e4072d357d0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce453f73ea5d3f53424556efd5a0cc5') in 0.073060 seconds
-  Import took 0.076846 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/24_AWG_Inst_roughness.png
-  artifactKey: Guid(fd98e39cf2a19984bad562c6879f7194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/24_AWG_Inst_roughness.png using Guid(fd98e39cf2a19984bad562c6879f7194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de734d6bf3a137aa76d3b667e97604f8') in 0.061324 seconds
-  Import took 0.065505 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/outer_shell_normal.png
-  artifactKey: Guid(f67a5a1cb2a23da4bb04440ccd0c9a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/outer_shell_normal.png using Guid(f67a5a1cb2a23da4bb04440ccd0c9a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2dfe24cd687dbba2fd65009ab7bfd3') in 0.061684 seconds
-  Import took 0.066152 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/motor_housing_ab_roughness.png
-  artifactKey: Guid(da6f31ad6f90d72428f6830494df7755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/motor_housing_ab_roughness.png using Guid(da6f31ad6f90d72428f6830494df7755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3679c12ee22f3d17f2f29480e9e2d81') in 0.064910 seconds
-  Import took 0.068502 seconds .
+  Time since last request: 0.000153 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples
+  artifactKey: Guid(1f273f2760599484887688bf4fd2de9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples using Guid(1f273f2760599484887688bf4fd2de9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8fbab5c761cfa8126ba0929947edb2') in 0.004922 seconds
+  Import took 0.008639 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000246 seconds.
-  path: Assets/bolts_Metallic.png
-  artifactKey: Guid(bc1e8752b4b40904cb0ae2b66522f808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bolts_Metallic.png using Guid(bc1e8752b4b40904cb0ae2b66522f808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ae3a9601d1a473d81fdd908a3a579b') in 0.013757 seconds
-  Import took 0.017234 seconds .
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick
+  artifactKey: Guid(a4fd016e138b9a442b5f569a89035869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick using Guid(a4fd016e138b9a442b5f569a89035869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c8aa3a15eecd09509110463bc4213da') in 0.006268 seconds
+  Import took 0.010891 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/rotor_stator_innards_metallic.png
-  artifactKey: Guid(64f30c84daabef74d8d9d65da4aff03f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/rotor_stator_innards_metallic.png using Guid(64f30c84daabef74d8d9d65da4aff03f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2f421fdf4cdcdd80de87d06cb01ce8') in 0.063943 seconds
-  Import took 0.067560 seconds .
+  Time since last request: 0.000153 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1
+  artifactKey: Guid(ee0ecf65ed04f4c42bb27f618354c970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1 using Guid(ee0ecf65ed04f4c42bb27f618354c970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5283ecc693f2ab4fc246d1e63a93a1') in 0.004853 seconds
+  Import took 0.008529 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/motor_housing_ab_metallic.png
-  artifactKey: Guid(3965e1c32ebbf564f8474e010177054a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/motor_housing_ab_metallic.png using Guid(3965e1c32ebbf564f8474e010177054a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a8110a19f4f5e7a1304477e980bb43') in 0.062618 seconds
-  Import took 0.065939 seconds .
+  Time since last request: 0.004607 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick
+  artifactKey: Guid(a4fd016e138b9a442b5f569a89035869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick using Guid(a4fd016e138b9a442b5f569a89035869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c8aa3a15eecd09509110463bc4213da') in 0.001827 seconds
+  Import took 0.005437 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/outer_shell_roughness.png
-  artifactKey: Guid(fe2aaa9222528e745ae22b7de4ba2cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/outer_shell_roughness.png using Guid(fe2aaa9222528e745ae22b7de4ba2cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcecdf3510dfa2c116073a7dd4892710') in 0.065176 seconds
-  Import took 0.068549 seconds .
+  Time since last request: 0.370517 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickExample.unity
+  artifactKey: Guid(d10fbf20b47452c45a0f4f551d4541fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickExample.unity using Guid(d10fbf20b47452c45a0f4f551d4541fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c0c77c5bf444d164e5dc3bf5e91dca6') in 0.005743 seconds
+  Import took 0.009490 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 11.60 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.9 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3268.
+Total: 3.828800 ms (FindLiveObjects: 0.346800 ms CreateObjectMapping: 0.155000 ms MarkObjects: 3.293000 ms  DeleteObjects: 0.031200 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/24_AWG_Inst_Base_color.png
-  artifactKey: Guid(23950995af140a54285ecb1816ee261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/24_AWG_Inst_Base_color.png using Guid(23950995af140a54285ecb1816ee261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a9612b647a7f1bc05f89e9668651d8') in 0.061702 seconds
-  Import took 0.065286 seconds .
+  Time since last request: 1147.042601 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/SceneContent.prefab
+  artifactKey: Guid(9059fcc278ebd854ab27a76a93d5cb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/SceneContent.prefab using Guid(9059fcc278ebd854ab27a76a93d5cb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c206686d9c679fd963029e234c8dc44') in 0.407397 seconds
+  Import took 0.414693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.631996 seconds.
+  path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
+  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8764bbd56103c8ce129b03ad001f0264') in 0.005451 seconds
+  Import took 0.010022 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 13.12 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 3270.
+Total: 4.402000 ms (FindLiveObjects: 0.435800 ms CreateObjectMapping: 0.211600 ms MarkObjects: 3.705500 ms  DeleteObjects: 0.047700 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 15.40 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.6 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3270.
+Total: 5.935500 ms (FindLiveObjects: 0.717600 ms CreateObjectMapping: 0.296600 ms MarkObjects: 4.881900 ms  DeleteObjects: 0.037800 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 10.57 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.9 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3270.
+Total: 4.556200 ms (FindLiveObjects: 0.525100 ms CreateObjectMapping: 0.202200 ms MarkObjects: 3.793000 ms  DeleteObjects: 0.034300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010057 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.177 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 2725 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.9 MB.
+System memory in use after: 129.8 MB.
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 3274.
+Total: 4.058200 ms (FindLiveObjects: 0.535000 ms CreateObjectMapping: 0.311800 ms MarkObjects: 3.015100 ms  DeleteObjects: 0.188800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004173 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.973 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 2725 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.0 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 3278.
+Total: 3.721800 ms (FindLiveObjects: 0.575200 ms CreateObjectMapping: 0.279000 ms MarkObjects: 2.725000 ms  DeleteObjects: 0.140800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.985 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.81 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.17 ms.
+Unloading 2725 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.0 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 3282.
+Total: 3.447400 ms (FindLiveObjects: 0.460200 ms CreateObjectMapping: 0.235100 ms MarkObjects: 2.564000 ms  DeleteObjects: 0.186100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 3524.426741 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickFloorMaterial.mat
+  artifactKey: Guid(08fa7172ba2185740bae014bca6c2270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickFloorMaterial.mat using Guid(08fa7172ba2185740bae014bca6c2270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf91ce1d16f3c5bbe0452d7b086cb2e') in 0.109776 seconds
+  Import took 0.114283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.610982 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Elastic/Scenes
+  artifactKey: Guid(33fc8640cf6c1124b8ef23130b433fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Elastic/Scenes using Guid(33fc8640cf6c1124b8ef23130b433fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452e7157a67ec1771f7603c628975770') in 0.004735 seconds
+  Import took 0.008755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.914239 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Elastic/Scenes/ElasticSystemExamples.unity
+  artifactKey: Guid(0e0d9dfd8a0eb2d4f9805d0352426a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Elastic/Scenes/ElasticSystemExamples.unity using Guid(0e0d9dfd8a0eb2d4f9805d0352426a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9171235dc2068df386b94828952f592d') in 0.005457 seconds
+  Import took 0.009732 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004057 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Unloading 2725 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.1 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 3287.
+Total: 4.736800 ms (FindLiveObjects: 0.841400 ms CreateObjectMapping: 0.294600 ms MarkObjects: 3.424400 ms  DeleteObjects: 0.174200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 196.955751 seconds.
+  path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
+  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '793deaef518ee58410a868c06f9d69a2') in 0.019189 seconds
+  Import took 0.024247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 413.161378 seconds.
+  path: Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/3rd Person Controller.prefab
+  artifactKey: Guid(2314ce3a3eecf4816bad3c9eca4de2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/3rd Person Controller.prefab using Guid(2314ce3a3eecf4816bad3c9eca4de2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a4b101ffb5715626ab6fd14a8f16bb') in 0.192694 seconds
+  Import took 0.197764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Oculus/VR/Materials/Arrow.mat
+  artifactKey: Guid(669025377795b574da66d9bb2472fcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Materials/Arrow.mat using Guid(669025377795b574da66d9bb2472fcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8805bc3e1c5a2d99c5fa9f3eec49dea8') in 0.020012 seconds
+  Import took 0.023826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Oculus/Spatializer/scenes/materials/AmbisonicObject1.mat
+  artifactKey: Guid(584662273d60a0f47bd7fecbb570e66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Spatializer/scenes/materials/AmbisonicObject1.mat using Guid(584662273d60a0f47bd7fecbb570e66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae966dc4005a859efac192e6c880d9c6') in 0.135057 seconds
+  Import took 0.138945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Oculus/Spatializer/scenes/sounds/360 Workstation Ambisonic Panning AmbiX.wav
+  artifactKey: Guid(1340d7fb0cd1bfb4caa3b3270cb2ea5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Spatializer/scenes/sounds/360 Workstation Ambisonic Panning AmbiX.wav using Guid(1340d7fb0cd1bfb4caa3b3270cb2ea5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642936392c2c51b71d76913780285f73') in 0.060587 seconds
+  Import took 0.064945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/aa.png
+  artifactKey: Guid(5c06354455999f94ea26114e261dde6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/aa.png using Guid(5c06354455999f94ea26114e261dde6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c98b9e495e1f5fea468b516fc3a0d97c') in 0.051141 seconds
+  Import took 0.057257 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 13.94 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.4 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3296.
+Total: 3.414500 ms (FindLiveObjects: 0.478400 ms CreateObjectMapping: 0.175600 ms MarkObjects: 2.733200 ms  DeleteObjects: 0.026400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004224 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.002 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 2725 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 144.7 MB.
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 3.310900 ms (FindLiveObjects: 0.387300 ms CreateObjectMapping: 0.229400 ms MarkObjects: 2.593800 ms  DeleteObjects: 0.099300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 902.704996 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Elastic/Scenes/ElasticSystemExamples.unity
+  artifactKey: Guid(0e0d9dfd8a0eb2d4f9805d0352426a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Elastic/Scenes/ElasticSystemExamples.unity using Guid(0e0d9dfd8a0eb2d4f9805d0352426a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b5d3bb7326a59ad7524f38267e546a') in 0.020400 seconds
+  Import took 0.025152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.974453 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickExample.unity
+  artifactKey: Guid(d10fbf20b47452c45a0f4f551d4541fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickExample.unity using Guid(d10fbf20b47452c45a0f4f551d4541fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd78422974ac734cbfcec22687c16f8a') in 0.004764 seconds
+  Import took 0.009075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.424347 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/SceneContent (1).prefab
+  artifactKey: Guid(057837e1e9284844c8dafc273d070256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/SceneContent (1).prefab using Guid(057837e1e9284844c8dafc273d070256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130f4ce49406742291dff34f32757330') in 0.401739 seconds
+  Import took 0.408526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.340009 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/RoverJoystickPrefab.prefab
+  artifactKey: Guid(057837e1e9284844c8dafc273d070256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/RoverJoystickPrefab.prefab using Guid(057837e1e9284844c8dafc273d070256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1354ee9b688430e2bc11027ceebffccb') in 0.227923 seconds
+  Import took 0.234002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.156237 seconds.
+  path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
+  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '307e80d5c148b96e77c0a2cfcdb3a6d3') in 0.002052 seconds
+  Import took 0.006521 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 13.01 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 3301.
+Total: 4.339500 ms (FindLiveObjects: 0.525300 ms CreateObjectMapping: 0.238000 ms MarkObjects: 3.545800 ms  DeleteObjects: 0.029500 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 11.30 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3301.
+Total: 3.101300 ms (FindLiveObjects: 0.381100 ms CreateObjectMapping: 0.132900 ms MarkObjects: 2.564000 ms  DeleteObjects: 0.022200 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 13.23 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3301.
+Total: 5.441700 ms (FindLiveObjects: 0.787500 ms CreateObjectMapping: 0.242800 ms MarkObjects: 4.376100 ms  DeleteObjects: 0.033300 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 11.46 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3301.
+Total: 4.475700 ms (FindLiveObjects: 0.339400 ms CreateObjectMapping: 0.197900 ms MarkObjects: 3.905000 ms  DeleteObjects: 0.031800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1524.846178 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickExample.unity
+  artifactKey: Guid(d10fbf20b47452c45a0f4f551d4541fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickExample.unity using Guid(d10fbf20b47452c45a0f4f551d4541fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b2c083e1cdc06fc55853206499a85f') in 0.026460 seconds
+  Import took 0.031826 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004809 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.057 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Unloading 2725 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.0 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 3305.
+Total: 3.926800 ms (FindLiveObjects: 0.601900 ms CreateObjectMapping: 0.292900 ms MarkObjects: 2.867900 ms  DeleteObjects: 0.162100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 104.819133 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickPrefab (Rotate).prefab
+  artifactKey: Guid(bb3685aef04ba9d47a7ffebca504d528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - Joystick/JoystickPrefab (Rotate).prefab using Guid(bb3685aef04ba9d47a7ffebca504d528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a587f1ff05938c0949c6a95434397f') in 0.090467 seconds
+  Import took 0.095562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.085948 seconds.
+  path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
+  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a69435382ad809e115da0daba576794') in 0.004909 seconds
+  Import took 0.008667 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 12.82 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.8 MB.
+System memory in use after: 83.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3306.
+Total: 4.541400 ms (FindLiveObjects: 0.483800 ms CreateObjectMapping: 0.216400 ms MarkObjects: 3.810700 ms  DeleteObjects: 0.029100 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 13.41 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.8 MB.
+System memory in use after: 83.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3306.
+Total: 4.237300 ms (FindLiveObjects: 0.336200 ms CreateObjectMapping: 0.188700 ms MarkObjects: 3.674700 ms  DeleteObjects: 0.036300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 2752 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.3 MB.
+System memory in use after: 146.2 MB.
+
+Unloading 236 unused Assets to reduce memory usage. Loaded Objects now: 3311.
+Total: 3.693000 ms (FindLiveObjects: 0.632700 ms CreateObjectMapping: 0.243900 ms MarkObjects: 2.599100 ms  DeleteObjects: 0.215900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1140.053962 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - MixedRealityKeyboard/Scenes
+  artifactKey: Guid(30e1d1024ec342e4d8675df40456d2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - MixedRealityKeyboard/Scenes using Guid(30e1d1024ec342e4d8675df40456d2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2eba47e29855f7431335cc3c252132') in 0.004824 seconds
+  Import took 0.009418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001704 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - MixedRealityKeyboard/Scenes
+  artifactKey: Guid(30e1d1024ec342e4d8675df40456d2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - MixedRealityKeyboard/Scenes using Guid(30e1d1024ec342e4d8675df40456d2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2eba47e29855f7431335cc3c252132') in 0.001609 seconds
+  Import took 0.005174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.289953 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - MixedRealityKeyboard/Scenes/MixedRealityKeyboardExample.unity
+  artifactKey: Guid(b21a91f417fdc7b41b531772ff092fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - MixedRealityKeyboard/Scenes/MixedRealityKeyboardExample.unity using Guid(b21a91f417fdc7b41b531772ff092fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea408733b9edf3d2a43fe56ef17b119') in 0.024681 seconds
+  Import took 0.028993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104673 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - MixedRealityKeyboard/Scenes/MixedRealityKeyboardExample.unity
+  artifactKey: Guid(b21a91f417fdc7b41b531772ff092fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - MixedRealityKeyboard/Scenes/MixedRealityKeyboardExample.unity using Guid(b21a91f417fdc7b41b531772ff092fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea408733b9edf3d2a43fe56ef17b119') in 0.001939 seconds
+  Import took 0.005831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.639415 seconds.
+  path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
+  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '004e4884a7df5afc28577245ea60f54c') in 0.001874 seconds
+  Import took 0.006058 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 15.52 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3311.
+Total: 3.630700 ms (FindLiveObjects: 0.521400 ms CreateObjectMapping: 0.225400 ms MarkObjects: 2.848900 ms  DeleteObjects: 0.033700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 753.746474 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ExamplesHub/Scenes
+  artifactKey: Guid(c3d8ee3223149d24e820430ac04043d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ExamplesHub/Scenes using Guid(c3d8ee3223149d24e820430ac04043d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea70e17ae7ada81ecc0923af1fbaa163') in 0.006676 seconds
+  Import took 0.012126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.473669 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ExamplesHub/Scenes/MRTKExamplesHub.unity
+  artifactKey: Guid(3caa77e0348b52a4a84e66859560aa36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ExamplesHub/Scenes/MRTKExamplesHub.unity using Guid(3caa77e0348b52a4a84e66859560aa36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8e17eb2d83e7b490bee8e7d2e88814') in 0.012464 seconds
+  Import took 0.017314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.242716 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ExamplesHub/Scenes/MRTKExamplesHubMainMenu.unity
+  artifactKey: Guid(63a00118e809c754f9c7911bb85d635f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ExamplesHub/Scenes/MRTKExamplesHubMainMenu.unity using Guid(63a00118e809c754f9c7911bb85d635f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959da1e385c90f25a90e3d75f2128e33') in 0.007488 seconds
+  Import took 0.011457 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.354126 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.328 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 2754 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.3 MB.
+System memory in use after: 148.2 MB.
+
+Unloading 236 unused Assets to reduce memory usage. Loaded Objects now: 3317.
+Total: 2.575400 ms (FindLiveObjects: 0.406400 ms CreateObjectMapping: 0.149500 ms MarkObjects: 1.807400 ms  DeleteObjects: 0.210500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 88.085324 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Scenes
+  artifactKey: Guid(7476b9a7b6744b8419728771cc0a82ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Scenes using Guid(7476b9a7b6744b8419728771cc0a82ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a30289c905dfdcc69ea15550b59b40') in 0.010747 seconds
+  Import took 0.016047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007775 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Scenes
+  artifactKey: Guid(7476b9a7b6744b8419728771cc0a82ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Scenes using Guid(7476b9a7b6744b8419728771cc0a82ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a30289c905dfdcc69ea15550b59b40') in 0.002879 seconds
+  Import took 0.007065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.813269 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Scenes/ScrollingObjectCollection.unity
+  artifactKey: Guid(79a0bb4c0426b7a4099c35eeced52ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Scenes/ScrollingObjectCollection.unity using Guid(79a0bb4c0426b7a4099c35eeced52ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd2ccb9a8305cb7ce0a0bdf06e6d249') in 0.016566 seconds
+  Import took 0.020993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.700427 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Scenes
+  artifactKey: Guid(5fe9edd093c53ef4bac09a3ba9d64c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Scenes using Guid(5fe9edd093c53ef4bac09a3ba9d64c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884b6df81753d4060ddf61a36c70baba') in 0.002900 seconds
+  Import took 0.007123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.909975 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Scenes/HandMenuLayoutExamples.unity
+  artifactKey: Guid(9e1c6bf44fb90c54dbf82acf2808c16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Scenes/HandMenuLayoutExamples.unity using Guid(9e1c6bf44fb90c54dbf82acf2808c16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd832a3a9c2248e05ec4dd05142c4fc2c') in 0.006639 seconds
+  Import took 0.011087 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 13.68 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3317.
+Total: 3.654300 ms (FindLiveObjects: 0.287500 ms CreateObjectMapping: 0.130700 ms MarkObjects: 3.200200 ms  DeleteObjects: 0.034400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 347.653305 seconds.
+  path: Assets/Oculus/VR/Textures/Black.png
+  artifactKey: Guid(a025c23fceb7d4966b603419f551ce99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/Black.png using Guid(a025c23fceb7d4966b603419f551ce99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21e1fcbfac09e89254f14d26bb7d5b5') in 0.033154 seconds
+  Import took 0.037701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Oculus/VR/Textures/OculusTouchForQuestAndRiftS/OculusQuestTouchControllerTexture.tga
+  artifactKey: Guid(a53d1d4e8207acf45b310f189c342b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/OculusTouchForQuestAndRiftS/OculusQuestTouchControllerTexture.tga using Guid(a53d1d4e8207acf45b310f189c342b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13e4006da1ecb7b142c72da1eb61886') in 0.086253 seconds
+  Import took 0.090644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/E.png
+  artifactKey: Guid(29a06a0eefee1b542a7c286f1689ffab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/E.png using Guid(29a06a0eefee1b542a7c286f1689ffab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3c5d55b6eddcb4d96a8e31bfd04386') in 0.016510 seconds
+  Import took 0.020511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_AlbedoRoughness.tga
+  artifactKey: Guid(b1f40c50ae24356469c6c6d4bfb2a2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_AlbedoRoughness.tga using Guid(b1f40c50ae24356469c6c6d4bfb2a2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2068644f284716b6134fe16e828a903') in 0.020684 seconds
+  Import took 0.024826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Oculus/VR/Textures/gaze_cursor.png
+  artifactKey: Guid(077028084dceb584798dade6c58d1978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/gaze_cursor.png using Guid(077028084dceb584798dade6c58d1978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941f275b2c0cc6e67915f38c4d38b3a1') in 0.017221 seconds
+  Import took 0.021358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Oculus/LipSync/Models/FemaleHead_Morph/Female.fbm/melinda_DIFF.png
+  artifactKey: Guid(45da2de4906862b4094ae41def9a5f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/FemaleHead_Morph/Female.fbm/melinda_DIFF.png using Guid(45da2de4906862b4094ae41def9a5f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae6959a7d7cd8c99303f2ac8db7bcce') in 0.064413 seconds
+  Import took 0.068365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Oculus/VR/Textures/Logos/OculusLogoSplash.png
+  artifactKey: Guid(3caded05dba914447a5f85650f9f4ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/Logos/OculusLogoSplash.png using Guid(3caded05dba914447a5f85650f9f4ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3f3a234a8eaa9e7f5908c9c2e4b617') in 0.015573 seconds
+  Import took 0.019222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Oculus/VR/Textures/color_ramp_timer.tga
+  artifactKey: Guid(8929c8bc5148a624b8c9d6df0ee6f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/color_ramp_timer.tga using Guid(8929c8bc5148a624b8c9d6df0ee6f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a61a1d5f9c75a94571fb74bcce3fb115') in 0.016091 seconds
+  Import took 0.019933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Oculus/LipSync/Models/FemaleHead_Morph/hair_NRM.tga
+  artifactKey: Guid(e59519b819b1843cb94acf4e281e8c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/FemaleHead_Morph/hair_NRM.tga using Guid(e59519b819b1843cb94acf4e281e8c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02996e870f65d9551271a25586930d10') in 0.089997 seconds
+  Import took 0.093936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Oculus/VR/Textures/Icons/OculusIcon.png
+  artifactKey: Guid(ee6b6c047f060074596445bbb9ebbfe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/Icons/OculusIcon.png using Guid(ee6b6c047f060074596445bbb9ebbfe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3e13c30d2b162231b3aa7326d9f1a8') in 0.015217 seconds
+  Import took 0.019156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Oculus/VR/Textures/GazeRing.png
+  artifactKey: Guid(82026cb669304dc4897d2c11d3753141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/GazeRing.png using Guid(82026cb669304dc4897d2c11d3753141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3abcb800698d32a2acc6c3d34d8433df') in 0.016520 seconds
+  Import took 0.020671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x1_Circles.png
+  artifactKey: Guid(e6bc0a5f42065e44e800663201b609ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x1_Circles.png using Guid(e6bc0a5f42065e44e800663201b609ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831587a47e7f76dedcb45330dc3594eb') in 0.010538 seconds
+  Import took 0.014797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/ConcreteTiling.png
+  artifactKey: Guid(ce1c3ee3dbf2a274ea3a241e51d40d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/ConcreteTiling.png using Guid(ce1c3ee3dbf2a274ea3a241e51d40d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be13ac75916f6f7d5614cabac08d133b') in 0.019998 seconds
+  Import took 0.023723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Left.TGA
+  artifactKey: Guid(0368149f02b42c14095151aaff644f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Left.TGA using Guid(0368149f02b42c14095151aaff644f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98f3fc6831794a72602c8e40336033f') in 0.019107 seconds
+  Import took 0.023082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce1ea6eabc4d092294fe11ead0b46db') in 0.040170 seconds
+  Import took 0.044614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x6.png
+  artifactKey: Guid(fbba9b51fdcba4f45bd5774112f3f555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x6.png using Guid(fbba9b51fdcba4f45bd5774112f3f555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5268821e0254d93b4bf97046b9bbddd') in 0.010640 seconds
+  Import took 0.014405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1280cc7be10b532b2897fc8654f95d3') in 0.028682 seconds
+  Import took 0.032798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/floorDiffuse.png
+  artifactKey: Guid(246909cf9f5e8fc498a001f5c1a73a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/floorDiffuse.png using Guid(246909cf9f5e8fc498a001f5c1a73a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76f1b0c7aa02ea5292395d6b2cdc808') in 0.055951 seconds
+  Import took 0.059438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_4x1.png
+  artifactKey: Guid(eefa4193db056fe47849c4a46617cebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_4x1.png using Guid(eefa4193db056fe47849c4a46617cebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603bc45b863b791ae76fcca2a47e514b') in 0.009845 seconds
+  Import took 0.014135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Head-2.png
+  artifactKey: Guid(49ba9bfa609aed54ea6d5d1c1390bc15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Head-2.png using Guid(49ba9bfa609aed54ea6d5d1c1390bc15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3810a0f04271dc1f9a82d1693b6886') in 0.033947 seconds
+  Import took 0.037900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Oculus/VR/Textures/Logos/OculusLogo.png
+  artifactKey: Guid(a56d69833b6471340bd0029e57449b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/Logos/OculusLogo.png using Guid(a56d69833b6471340bd0029e57449b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c0457581c900bc8d245ed38bee771c') in 0.018964 seconds
+  Import took 0.023177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png
+  artifactKey: Guid(97b050d43ac7c4d2b9f6cbb587650761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png using Guid(97b050d43ac7c4d2b9f6cbb587650761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffdbbebc30ad42bf5f7720bfd72d8ae6') in 0.030911 seconds
+  Import took 0.035039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/FF.png
+  artifactKey: Guid(5563aa34057c347499c480ea33c5d593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/FF.png using Guid(5563aa34057c347499c480ea33c5d593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4256ad6e8c23f2777bc8cd19de7b4e9') in 0.016284 seconds
+  Import took 0.019973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+  artifactKey: Guid(93a54b3b63bcc6d49b16f6bdb655b940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png using Guid(93a54b3b63bcc6d49b16f6bdb655b940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b8c4878f38d048538e2cbd52032287') in 0.018408 seconds
+  Import took 0.022403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+  artifactKey: Guid(b3e87b1024f5fa8408d004b398e7b0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png using Guid(b3e87b1024f5fa8408d004b398e7b0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccfb8a8e6d8b20ca5b82027a601b13bd') in 0.151274 seconds
+  Import took 0.155256 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000174 seconds.
-  path: Assets/Cryocooler_Base_color.png
-  artifactKey: Guid(0af5edb343096fb4eacdce76bb3f5d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cryocooler_Base_color.png using Guid(0af5edb343096fb4eacdce76bb3f5d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f9b599492d9338ff3a6fe73cc4d5ed') in 0.060801 seconds
-  Import took 0.064192 seconds .
+  path: Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/furnitureDiffuse.png
+  artifactKey: Guid(fb267f285579d3a4ba0ce049610fea7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/furnitureDiffuse.png using Guid(fb267f285579d3a4ba0ce049610fea7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e61405d230ecf49718168f2fa83dc197') in 0.056023 seconds
+  Import took 0.060184 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Cryocooler_roughness.png
-  artifactKey: Guid(de44780c6b6e3f54a8fb4e6280410897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cryocooler_roughness.png using Guid(de44780c6b6e3f54a8fb4e6280410897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389abbb4fec460427bab87fad0fac427') in 0.065552 seconds
-  Import took 0.068946 seconds .
+  Time since last request: 0.000257 seconds.
+  path: Assets/Oculus/VR/Textures/cube_texture.png
+  artifactKey: Guid(020d1a102a7f2a14ebf6cefe7b977303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/cube_texture.png using Guid(020d1a102a7f2a14ebf6cefe7b977303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3174fee4919cd7b7530df9e9b5889921') in 0.024315 seconds
+  Import took 0.028393 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/24_AWG_Inst_normal.png
-  artifactKey: Guid(02cf5f06d8574ca43b64c5a911d3649e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/24_AWG_Inst_normal.png using Guid(02cf5f06d8574ca43b64c5a911d3649e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a85d443d35b9dd3604838367837a8a') in 0.054698 seconds
-  Import took 0.058363 seconds .
+  Time since last request: 0.000172 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x1.png
+  artifactKey: Guid(51fdf423af63ad64db2e978be70ebb5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x1.png using Guid(51fdf423af63ad64db2e978be70ebb5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d827b2727664b1180b139502da2c35d') in 0.009981 seconds
+  Import took 0.013988 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/bolts_Base_color.png
-  artifactKey: Guid(852c6630ff5033a4db5902f5e084125c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bolts_Base_color.png using Guid(852c6630ff5033a4db5902f5e084125c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b80e13c825fcfac8147313c095c13f0') in 0.011996 seconds
-  Import took 0.015458 seconds .
+  Time since last request: 0.000270 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/DD.png
+  artifactKey: Guid(ffbd7db31d3ad6e4a97a2f312babdcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/DD.png using Guid(ffbd7db31d3ad6e4a97a2f312babdcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65fca99b1a5fae121d68cc411d2cc8c1') in 0.015264 seconds
+  Import took 0.019471 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.668418 seconds.
-  path: Assets/24_AWG_Inst_Base_color.png
-  artifactKey: Guid(23950995af140a54285ecb1816ee261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/24_AWG_Inst_Base_color.png using Guid(23950995af140a54285ecb1816ee261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a9612b647a7f1bc05f89e9668651d8') in 0.062981 seconds
-  Import took 0.066851 seconds .
+  Time since last request: 0.000152 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x2.png
+  artifactKey: Guid(7a01aec622d5c984592cc4fcc5ec04e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x2.png using Guid(7a01aec622d5c984592cc4fcc5ec04e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49bd1095c8ae999ecacac210cafc452') in 0.010857 seconds
+  Import took 0.015157 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 442.450079 seconds.
-  path: Assets/MRTK-Online-2/Examples/HEMM_MRTK-Quest_2.5_Examples_Online.unity
-  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK-Online-2/Examples/HEMM_MRTK-Quest_2.5_Examples_Online.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5776ae765392337d437829024a974d') in 0.006305 seconds
-  Import took 0.010751 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 32.794236 seconds.
-  path: Assets/MRTK-Online-2/Examples/W7_MRTK-Quest_2.5_Examples_Online 1.unity
-  artifactKey: Guid(f8b55650d4a6af346bb3ca141403b9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK-Online-2/Examples/W7_MRTK-Quest_2.5_Examples_Online 1.unity using Guid(f8b55650d4a6af346bb3ca141403b9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678721fbdd5d28a6b848b44ffc9e7c89') in 2.023672 seconds
-  Import took 2.668454 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.960442 seconds.
-  path: Assets/MRTK-Online-2/Examples/W7_MRTK-Quest_2.5_Examples_Online 1.unity
-  artifactKey: Guid(f8b55650d4a6af346bb3ca141403b9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK-Online-2/Examples/W7_MRTK-Quest_2.5_Examples_Online 1.unity using Guid(f8b55650d4a6af346bb3ca141403b9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678721fbdd5d28a6b848b44ffc9e7c89') in 0.003179 seconds
-  Import took 0.007559 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 67.152344 seconds.
-  path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
-  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20fe2a36630834d592a71798854960d5') in 0.010172 seconds
-  Import took 0.084028 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.495915 seconds.
-  path: Assets/MRTK-Online-2/Examples/HEMM_MRTK-Quest_2.5_Examples_OnlineSettings.lighting
-  artifactKey: Guid(2671e531747660449b80431fc6b4b8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK-Online-2/Examples/HEMM_MRTK-Quest_2.5_Examples_OnlineSettings.lighting using Guid(2671e531747660449b80431fc6b4b8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042e17ed713cbccacc285d839ed782b8') in 0.363420 seconds
-  Import took 0.488785 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 6.24 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
-Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 67.5 MB.
-System memory in use after: 67.7 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3246.
-Total: 3.270000 ms (FindLiveObjects: 0.326100 ms CreateObjectMapping: 0.124900 ms MarkObjects: 2.792900 ms  DeleteObjects: 0.025300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 676.929897 seconds.
-  path: Assets/MRTK-Online-2/Art/Branding/MRTK-Online_Banner.png
-  artifactKey: Guid(9748b5fd2e33b1a4c8269d1ffa29a09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK-Online-2/Art/Branding/MRTK-Online_Banner.png using Guid(9748b5fd2e33b1a4c8269d1ffa29a09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d40736ec58cf38b6fc622a2fe15b90a') in 0.038821 seconds
-  Import took 0.043642 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 5.83 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
-Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.6 MB.
-System memory in use after: 70.8 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3251.
-Total: 3.493600 ms (FindLiveObjects: 0.313700 ms CreateObjectMapping: 0.118000 ms MarkObjects: 3.034500 ms  DeleteObjects: 0.026400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003813 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
-Error when attempting to update scene info fields. Scene info data may be stale.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogWarning (object)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
-
-(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.892 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
-Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.5 MB.
-System memory in use after: 131.3 MB.
-
-Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3255.
-Total: 2.146600 ms (FindLiveObjects: 0.269800 ms CreateObjectMapping: 0.093100 ms MarkObjects: 1.682500 ms  DeleteObjects: 0.100500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002501 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
-Error when attempting to update scene info fields. Scene info data may be stale.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogWarning (object)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
-
-(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.896 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
-Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.5 MB.
-System memory in use after: 131.4 MB.
-
-Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3259.
-Total: 2.515600 ms (FindLiveObjects: 0.402200 ms CreateObjectMapping: 0.143600 ms MarkObjects: 1.855300 ms  DeleteObjects: 0.113500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 6.02 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
-Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.1 MB.
-System memory in use after: 69.4 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3259.
-Total: 3.176300 ms (FindLiveObjects: 0.336900 ms CreateObjectMapping: 0.178100 ms MarkObjects: 2.637000 ms  DeleteObjects: 0.023200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 2428.746469 seconds.
-  path: Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/SmallRoom.fbx
-  artifactKey: Guid(78906942dba6db24ca155679a45f60ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/SmallRoom.fbx using Guid(78906942dba6db24ca155679a45f60ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3202f28272c35147b26431ddf24513') in 0.196874 seconds
-  Import took 0.201858 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Oculus/VR/Materials/BasicHandMaterial.mat
-  artifactKey: Guid(5ba7d209f622bb44e87b47ce27ee27b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/VR/Materials/BasicHandMaterial.mat using Guid(5ba7d209f622bb44e87b47ce27ee27b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '548d031e70a093ed0d0dac0d71d9f775') in 0.128139 seconds
-  Import took 0.131836 seconds .
+  Time since last request: 0.000190 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/ih.png
+  artifactKey: Guid(ad60c8114191fdf41aa0ea64e132add9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/ih.png using Guid(ad60c8114191fdf41aa0ea64e132add9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d50785fd9f1fad468ae79f0b66f48f') in 0.016649 seconds
+  Import took 0.020433 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000234 seconds.
-  path: Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Models/MRDeskShadow.fbx
-  artifactKey: Guid(bb5c416ca94f7a34fbd14f26fa5a38e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Models/MRDeskShadow.fbx using Guid(bb5c416ca94f7a34fbd14f26fa5a38e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb12bfe199c25c54255359c7e70313ac') in 0.014370 seconds
-  Import took 0.017787 seconds .
+  path: Assets/Oculus/VR/Textures/gaze_cursor_timer.tga
+  artifactKey: Guid(79a33e7a7166c6142ad50f46a9a23d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/gaze_cursor_timer.tga using Guid(79a33e7a7166c6142ad50f46a9a23d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a17de362f10cc3bc31eff07edf11653') in 0.016958 seconds
+  Import took 0.020544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d62342976edf775f4cca4f0a046f9e') in 0.019341 seconds
+  Import took 0.023175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ColorPicker/Textures/Gradient.png
+  artifactKey: Guid(f4b99f53cd2ade9428bd5b5ded607c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ColorPicker/Textures/Gradient.png using Guid(f4b99f53cd2ade9428bd5b5ded607c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4733f7613bc624b5a476b4c39658cc0') in 0.024940 seconds
+  Import took 0.029525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/kk.png
+  artifactKey: Guid(ba0b9f69af91c5f46b490346e5552136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/kk.png using Guid(ba0b9f69af91c5f46b490346e5552136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4984c656d9c34eae0afe382595b78a') in 0.015179 seconds
+  Import took 0.018938 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000222 seconds.
-  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/CH.png
-  artifactKey: Guid(5e6531e8f56b42547b8d2ddf7a7363d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/CH.png using Guid(5e6531e8f56b42547b8d2ddf7a7363d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0d925e3921da55d111f36a1d46efe6') in 0.012894 seconds
-  Import took 0.016512 seconds .
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ColorPicker/Textures/Dragger.png
+  artifactKey: Guid(9c59ac3f173fe7941ac8fd6375684e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ColorPicker/Textures/Dragger.png using Guid(9c59ac3f173fe7941ac8fd6375684e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15275957c3b3f5f934976a83b609fc3') in 0.017992 seconds
+  Import took 0.022214 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
-  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99846f5a5cef2b9fb3476a6a84d35918') in 0.007994 seconds
-  Import took 0.011347 seconds .
+  Time since last request: 0.000225 seconds.
+  path: Assets/Oculus/Avatar/Samples/SocialStarter/Assets/Textures/GearHelp.png
+  artifactKey: Guid(0453138effcc80349b11371805f72f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Samples/SocialStarter/Assets/Textures/GearHelp.png using Guid(0453138effcc80349b11371805f72f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dec0035ecbe1eb92f83bf01d3baf56b') in 0.016899 seconds
+  Import took 0.020702 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.003035 seconds.
-  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
-  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99846f5a5cef2b9fb3476a6a84d35918') in 0.002763 seconds
-  Import took 0.006399 seconds .
+  Time since last request: 0.000234 seconds.
+  path: Assets/Oculus/VR/Textures/Black.png
+  artifactKey: Guid(a025c23fceb7d4966b603419f551ce99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/Black.png using Guid(a025c23fceb7d4966b603419f551ce99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21e1fcbfac09e89254f14d26bb7d5b5') in 0.004592 seconds
+  Import took 0.008451 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.662595 seconds.
-  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Materials/HolographicBackPlateNoBorder_Light_Blue.mat
-  artifactKey: Guid(c0e93915e1830654bbe2550ab932521a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Demos - ScrollingObjectCollection/Materials/HolographicBackPlateNoBorder_Light_Blue.mat using Guid(c0e93915e1830654bbe2550ab932521a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0313bfad8d9fc2411102ec928bf55108') in 0.049156 seconds
-  Import took 0.053040 seconds .
+  Time since last request: 0.000213 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/nn.png
+  artifactKey: Guid(9c21cf8c4dffca9418cebd0a578972b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/nn.png using Guid(9c21cf8c4dffca9418cebd0a578972b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a39585b52ee98ee999a32f1cdb1777') in 0.016598 seconds
+  Import took 0.020843 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 67.128316 seconds.
-  path: Assets/MRTK/Shaders/MixedRealityStandard.shader
-  artifactKey: Guid(5bdea20278144b11916d77503ba1467a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK/Shaders/MixedRealityStandard.shader using Guid(5bdea20278144b11916d77503ba1467a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b582502f8f58741fd827fb4e26eb4b8c') in 0.007059 seconds
-  Import took 0.010915 seconds .
+  Time since last request: 0.000205 seconds.
+  path: Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png
+  artifactKey: Guid(5e2a6a0441e3eb94f8f8f5b448763cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png using Guid(5e2a6a0441e3eb94f8f8f5b448763cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6abdd34f4c4314651c3e38faf5dd60f4') in 0.021145 seconds
+  Import took 0.024776 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001281 seconds.
-  path: Assets/MRTK/Shaders/MixedRealityStandard.shader
-  artifactKey: Guid(5bdea20278144b11916d77503ba1467a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK/Shaders/MixedRealityStandard.shader using Guid(5bdea20278144b11916d77503ba1467a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b582502f8f58741fd827fb4e26eb4b8c') in 0.002656 seconds
-  Import took 0.006134 seconds .
+  Time since last request: 0.000189 seconds.
+  path: Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/FabricTiling.png
+  artifactKey: Guid(d907eae360fb79e428e1436145e6ddce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/FabricTiling.png using Guid(d907eae360fb79e428e1436145e6ddce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc013c49b31e6ef50e98d70eeb961be5') in 0.020421 seconds
+  Import took 0.024515 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.199065 seconds.
-  path: Assets/MRTK/Shaders/MRTK_Wireframe.shader
-  artifactKey: Guid(5c1653eb4e20b76499141de7bc57c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK/Shaders/MRTK_Wireframe.shader using Guid(5c1653eb4e20b76499141de7bc57c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb4d5ff34bd5869922c592c6b3c1c46') in 0.006387 seconds
-  Import took 0.010324 seconds .
+  Time since last request: 0.000130 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ColorPicker/Textures/Dragger.png
+  artifactKey: Guid(9c59ac3f173fe7941ac8fd6375684e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ColorPicker/Textures/Dragger.png using Guid(9c59ac3f173fe7941ac8fd6375684e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15275957c3b3f5f934976a83b609fc3') in 0.012059 seconds
+  Import took 0.015859 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001102 seconds.
-  path: Assets/MRTK/Shaders/MRTK_Wireframe.shader
-  artifactKey: Guid(5c1653eb4e20b76499141de7bc57c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK/Shaders/MRTK_Wireframe.shader using Guid(5c1653eb4e20b76499141de7bc57c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb4d5ff34bd5869922c592c6b3c1c46') in 0.002522 seconds
-  Import took 0.006096 seconds .
+  Time since last request: 0.000232 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+  artifactKey: Guid(22a046c12fc7f3c4d98a98add109fa96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png using Guid(22a046c12fc7f3c4d98a98add109fa96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eaa9dc39f977b339c24ebb24167f94f') in 0.110728 seconds
+  Import took 0.115133 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.732111 seconds.
-  path: Assets/MRTK/Shaders/InvisibleShader.shader
-  artifactKey: Guid(54ea9f30be414d86a7260eceb330c449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK/Shaders/InvisibleShader.shader using Guid(54ea9f30be414d86a7260eceb330c449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ec1f7bf01f417dd1db678c660515de') in 0.005596 seconds
-  Import took 0.009471 seconds .
+  Time since last request: 0.000176 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x4.png
+  artifactKey: Guid(79d312da0022bc14e98dfb839089c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x4.png using Guid(79d312da0022bc14e98dfb839089c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e020096dd8fc2faa3f73b90cf46610d4') in 0.009999 seconds
+  Import took 0.014385 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.889485 seconds.
-  path: Assets/MRTK/Shaders/InstancedColored.shader
-  artifactKey: Guid(d199a2ca60343bb49ad9a41ddb45a083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK/Shaders/InstancedColored.shader using Guid(d199a2ca60343bb49ad9a41ddb45a083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f04f8217a3341014de206686ff129d5') in 0.005683 seconds
-  Import took 0.009545 seconds .
+  Time since last request: 0.000193 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+  artifactKey: Guid(7d8da3d06466cc04da8c020819170a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png using Guid(7d8da3d06466cc04da8c020819170a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4940a2e2dbe2ac70a77a48bb70fe7055') in 0.010399 seconds
+  Import took 0.014538 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.219687 seconds.
-  path: Assets/MRTK/Shaders
-  artifactKey: Guid(db44f841653189240ac6d88a1a6b6d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK/Shaders using Guid(db44f841653189240ac6d88a1a6b6d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97df3d38e4204fe143561e0e7ca4548c') in 0.005509 seconds
-  Import took 0.009416 seconds .
+  Time since last request: 0.000246 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+  artifactKey: Guid(502d438d2584976448c3cdb146ed836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png using Guid(502d438d2584976448c3cdb146ed836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f401edcdf4a4779aa3e2d45302e8a0') in 0.034441 seconds
+  Import took 0.038531 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 50.985343 seconds.
-  path: Assets/Oculus/Platform/Scripts/Models/NetworkingPeer.cs
-  artifactKey: Guid(88e2e0a11ed7e054da26c78d6bd1283f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Oculus/Platform/Scripts/Models/NetworkingPeer.cs using Guid(88e2e0a11ed7e054da26c78d6bd1283f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba22facdea525a4f3f34881a75d5cfe7') in 0.008745 seconds
-  Import took 0.012744 seconds .
+  Time since last request: 0.000140 seconds.
+  path: Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+  artifactKey: Guid(c00bf1ce0c68d5646ad7ea3d26b3486d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png using Guid(c00bf1ce0c68d5646ad7ea3d26b3486d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b43cf77f9ad829013937bddabe950989') in 0.051986 seconds
+  Import took 0.056563 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.576555 seconds.
-  path: Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs
-  artifactKey: Guid(db32660070d5d8e45ae9af22e105df1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs using Guid(db32660070d5d8e45ae9af22e105df1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1928b06948507f0b77f55b72604296') in 0.005347 seconds
-  Import took 0.009085 seconds .
+  Time since last request: 0.000184 seconds.
+  path: Assets/Oculus/Avatar/Samples/SocialStarter/Assets/Textures/Help.png
+  artifactKey: Guid(c8f5462cc092d0c40ad71773132863e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Samples/SocialStarter/Assets/Textures/Help.png using Guid(c8f5462cc092d0c40ad71773132863e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da2769e546babf4b14e3cca4765528d') in 0.017998 seconds
+  Import took 0.021836 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.004114 seconds.
-  path: Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs
-  artifactKey: Guid(db32660070d5d8e45ae9af22e105df1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs using Guid(db32660070d5d8e45ae9af22e105df1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1928b06948507f0b77f55b72604296') in 0.002542 seconds
-  Import took 0.006262 seconds .
+  Time since last request: 0.000241 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x3.png
+  artifactKey: Guid(2f784f6104ad25e4c8a20880441875c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x3.png using Guid(2f784f6104ad25e4c8a20880441875c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3629e7687ed512a39a7f49b5b92dafa0') in 0.010254 seconds
+  Import took 0.013938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Oculus/VR/Textures/handle.png
+  artifactKey: Guid(ce8f78b2b9292484e97f36ad9568fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/handle.png using Guid(ce8f78b2b9292484e97f36ad9568fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6f89216345fe6f7c9cdf428b7bf47f') in 0.016769 seconds
+  Import took 0.020442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+  artifactKey: Guid(9fb4a3be60417d043865e457a9d51e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif using Guid(9fb4a3be60417d043865e457a9d51e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3910ceeebeb4373cd3dd07defadd724e') in 0.082002 seconds
+  Import took 0.086036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 187.042432 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Scenes/PalmUpHandMenu_AboveFingertips_3x4.prefab
+  artifactKey: Guid(bc50ce448272f42429a6e6bfe31b85c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Scenes/PalmUpHandMenu_AboveFingertips_3x4.prefab using Guid(bc50ce448272f42429a6e6bfe31b85c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1631d55ee11280c4e2eb23206aad4431') in 0.381663 seconds
+  Import took 0.388498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.134441 seconds.
+  path: Assets/MRTK-Online-2/Prefabs
+  artifactKey: Guid(c75ee64b316349845a52285c8a5b3fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Prefabs using Guid(c75ee64b316349845a52285c8a5b3fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340b5fb7fc54eb6bdecffe4338c216bc') in 0.006358 seconds
+  Import took 0.010313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.358553 seconds.
+  path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
+  artifactKey: Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity using Guid(b8a6eb782dfc42c44a32de8025a5cfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817dd31ae968c1d1d51863f96fca8b36') in 0.006731 seconds
+  Import took 0.011407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.958012 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_AboveFingertips_3x2.prefab
+  artifactKey: Guid(6662f03b72946ab4b8d0200a7cdb0477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_AboveFingertips_3x2.prefab using Guid(6662f03b72946ab4b8d0200a7cdb0477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf3682b11eae0bd86cdc40702fcccb6') in 0.102218 seconds
+  Import took 0.108004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_Side_1x3.prefab
+  artifactKey: Guid(14b2f904c012f204b94aa960a991840e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_Side_1x3.prefab using Guid(14b2f904c012f204b94aa960a991840e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '135b98f4788116dc3d75158a60ef056d') in 0.091353 seconds
+  Import took 0.096311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_Side_1x3_Circles.prefab
+  artifactKey: Guid(6d13d89669f2dba44996cfd0a6ce7856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_Side_1x3_Circles.prefab using Guid(6d13d89669f2dba44996cfd0a6ce7856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5007da1f538f52411b1af25679fb5f0a') in 0.109401 seconds
+  Import took 0.114152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_Side_1x4.prefab
+  artifactKey: Guid(9ef654312d26a6743af904631a9c1b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_Side_1x4.prefab using Guid(9ef654312d26a6743af904631a9c1b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a676c2659777af706f7b734fa11e6a') in 0.099499 seconds
+  Import took 0.104503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_AboveFingertips_3x4.prefab
+  artifactKey: Guid(e2f6f6072287b9543ba3002962cd02c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_AboveFingertips_3x4.prefab using Guid(e2f6f6072287b9543ba3002962cd02c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e1689a631838537192f9df9bf61a73') in 0.120634 seconds
+  Import took 0.126474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_InPalm_3x3.prefab
+  artifactKey: Guid(cc885b0607931fe4f92799eee46ab769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PalmUpHandMenu_InPalm_3x3.prefab using Guid(cc885b0607931fe4f92799eee46ab769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64943300f07fd35ffe16a0e23c416310') in 0.104724 seconds
+  Import took 0.110142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PressableButtonHoloLens2_AppButton.prefab
+  artifactKey: Guid(0b624ef669468fc43ba70c5eb0da606e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Prefabs/PressableButtonHoloLens2_AppButton.prefab using Guid(0b624ef669468fc43ba70c5eb0da606e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f356dcb51f9c762853f6bf78479151b') in 0.095252 seconds
+  Import took 0.100991 seconds .
 
 ========================================================================
 Received Prepare
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 5.75 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
+Refreshing native plugins compatible for Editor in 12.92 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
 Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.8 MB.
-System memory in use after: 69.0 MB.
+System memory in use before: 99.6 MB.
+System memory in use after: 99.8 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3299.
-Total: 3.032900 ms (FindLiveObjects: 0.253400 ms CreateObjectMapping: 0.115000 ms MarkObjects: 2.644300 ms  DeleteObjects: 0.019400 ms)
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 3326.
+Total: 4.583100 ms (FindLiveObjects: 0.582700 ms CreateObjectMapping: 0.269700 ms MarkObjects: 3.701500 ms  DeleteObjects: 0.028000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002590 seconds.
+Registered in 0.004322 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 2754 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.7 MB.
+System memory in use after: 159.6 MB.
+
+Unloading 236 unused Assets to reduce memory usage. Loaded Objects now: 3330.
+Total: 4.213800 ms (FindLiveObjects: 0.728700 ms CreateObjectMapping: 0.366000 ms MarkObjects: 2.783500 ms  DeleteObjects: 0.334000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003916 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.78 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
+Preloading 1 native plugins for Editor in 0.07 ms.
 Error when attempting to update scene info fields. Scene info data may be stale.
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
 UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
 UnityEngine.Logger:Log (UnityEngine.LogType,object)
 UnityEngine.Debug:LogWarning (object)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
 
-(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.895 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
-Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.1 MB.
-System memory in use after: 131.9 MB.
-
-Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3303.
-Total: 2.147600 ms (FindLiveObjects: 0.269600 ms CreateObjectMapping: 0.101000 ms MarkObjects: 1.673100 ms  DeleteObjects: 0.103000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002514 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.84 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
-Error when attempting to update scene info fields. Scene info data may be stale.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogWarning (object)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
-
-(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+(Filename: D:/Unity Projects/MRTKonline/PlasticSCM_PassthroughOnlineMRTK/PassthroughOnlineMRTKV1/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.939 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
-Unloading 2759 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.1 MB.
-System memory in use after: 132.0 MB.
-
-Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3308.
-Total: 2.080000 ms (FindLiveObjects: 0.291300 ms CreateObjectMapping: 0.138600 ms MarkObjects: 1.537600 ms  DeleteObjects: 0.111600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002517 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.13 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
-Error when attempting to update scene info fields. Scene info data may be stale.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogWarning (object)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
-
-(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.915 seconds
+- Completed reload, in  0.988 seconds
 Platform modules already initialized, skipping
 Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
 Refreshing native plugins compatible for Editor in 0.79 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
-Unloading 2759 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.1 MB.
-System memory in use after: 132.0 MB.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 2754 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.8 MB.
+System memory in use after: 159.6 MB.
 
-Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3312.
-Total: 2.286100 ms (FindLiveObjects: 0.284100 ms CreateObjectMapping: 0.105100 ms MarkObjects: 1.786900 ms  DeleteObjects: 0.109000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 5.90 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
-Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.7 MB.
-System memory in use after: 70.0 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3312.
-Total: 2.432800 ms (FindLiveObjects: 0.323100 ms CreateObjectMapping: 0.166800 ms MarkObjects: 1.923300 ms  DeleteObjects: 0.019100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002661 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
-Error when attempting to update scene info fields. Scene info data may be stale.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogWarning (object)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
-Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
-
-(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.949 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
-Unloading 2759 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.2 MB.
-System memory in use after: 132.0 MB.
-
-Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 3316.
-Total: 2.133200 ms (FindLiveObjects: 0.241400 ms CreateObjectMapping: 0.107800 ms MarkObjects: 1.680800 ms  DeleteObjects: 0.102600 ms)
+Unloading 236 unused Assets to reduce memory usage. Loaded Objects now: 3334.
+Total: 3.485400 ms (FindLiveObjects: 0.298500 ms CreateObjectMapping: 0.137300 ms MarkObjects: 2.748600 ms  DeleteObjects: 0.299400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
 Received Prepare
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 6.35 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
+Refreshing native plugins compatible for Editor in 13.24 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
 Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.7 MB.
-System memory in use after: 70.0 MB.
+System memory in use before: 96.8 MB.
+System memory in use after: 97.0 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3316.
-Total: 2.321100 ms (FindLiveObjects: 0.351500 ms CreateObjectMapping: 0.162500 ms MarkObjects: 1.785400 ms  DeleteObjects: 0.020900 ms)
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3334.
+Total: 3.357800 ms (FindLiveObjects: 0.485400 ms CreateObjectMapping: 0.174500 ms MarkObjects: 2.671200 ms  DeleteObjects: 0.024500 ms)
 
 ========================================================================
 Received Prepare
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 6.10 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.04 ms.
+Refreshing native plugins compatible for Editor in 12.19 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
 Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.7 MB.
-System memory in use after: 70.0 MB.
+System memory in use before: 96.8 MB.
+System memory in use after: 97.0 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3316.
-Total: 2.995600 ms (FindLiveObjects: 0.357500 ms CreateObjectMapping: 0.169600 ms MarkObjects: 2.445200 ms  DeleteObjects: 0.022500 ms)
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3334.
+Total: 2.990300 ms (FindLiveObjects: 0.358900 ms CreateObjectMapping: 0.175000 ms MarkObjects: 2.429600 ms  DeleteObjects: 0.025800 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 12.93 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.8 MB.
+System memory in use after: 97.0 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3334.
+Total: 3.326000 ms (FindLiveObjects: 0.390000 ms CreateObjectMapping: 0.136500 ms MarkObjects: 2.758700 ms  DeleteObjects: 0.039300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6870.235752 seconds.
+  path: Assets/Oculus/VR/Textures/handle.png
+  artifactKey: Guid(ce8f78b2b9292484e97f36ad9568fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/handle.png using Guid(ce8f78b2b9292484e97f36ad9568fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c077e0302d7ad48f08e1e6d7da48df1') in 0.102013 seconds
+  Import took 0.106817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/MixedRealityToolkit.Generated/CustomProfiles/Oculus_MixedRealityHandTrackingProfile.asset
+  artifactKey: Guid(6776099cc171faf4b98097a55667c9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixedRealityToolkit.Generated/CustomProfiles/Oculus_MixedRealityHandTrackingProfile.asset using Guid(6776099cc171faf4b98097a55667c9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54d7011b7a023819c1626f669fe1508a') in 0.007771 seconds
+  Import took 0.011550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x1.mat
+  artifactKey: Guid(5c96e89a2be098b4daa2f326b845abe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x1.mat using Guid(5c96e89a2be098b4daa2f326b845abe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637891ddc79d0bfe4b894213f8ee016a') in 0.032277 seconds
+  Import took 0.035925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_Backplate.mat
+  artifactKey: Guid(cf3ea772efd90164eb766f02911d1009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_Backplate.mat using Guid(cf3ea772efd90164eb766f02911d1009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb3d368a92922d8ceda58ea72e47fcc') in 0.023197 seconds
+  Import took 0.026938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRTrackedKeyboard/OVRHandMask_R.prefab
+  artifactKey: Guid(f87c1bb867ed6194ea69c0d3a05a6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRTrackedKeyboard/OVRHandMask_R.prefab using Guid(f87c1bb867ed6194ea69c0d3a05a6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c7598f8a233755d48d30d9c71a9601') in 0.073825 seconds
+  Import took 0.078079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x1_Circles.png
+  artifactKey: Guid(e6bc0a5f42065e44e800663201b609ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x1_Circles.png using Guid(e6bc0a5f42065e44e800663201b609ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194ce5748acd2490029dbc0072a77567') in 0.017610 seconds
+  Import took 0.022404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_AppButton_Backplate_Pink.mat
+  artifactKey: Guid(540860f8f82a6ff45847d584c80ed64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_AppButton_Backplate_Pink.mat using Guid(540860f8f82a6ff45847d584c80ed64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eeadc65390bca370e89ceab7e1eb4a5') in 0.023941 seconds
+  Import took 0.029531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRHandPrefab.prefab
+  artifactKey: Guid(835e735ca71bf78459fb2cababd74112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRHandPrefab.prefab using Guid(835e735ca71bf78459fb2cababd74112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3659c18c696cad4bfef73cb1e0985f8') in 0.010056 seconds
+  Import took 0.014257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x6.png
+  artifactKey: Guid(fbba9b51fdcba4f45bd5774112f3f555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x6.png using Guid(fbba9b51fdcba4f45bd5774112f3f555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a2e3139ec44bb27876424969b835205') in 0.012827 seconds
+  Import took 0.016687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_ToggleDialog_Backplate.mat
+  artifactKey: Guid(d651560065342e7428323566471461f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_ToggleDialog_Backplate.mat using Guid(d651560065342e7428323566471461f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff9a60862262dcb86098cf54e4f567e') in 0.021258 seconds
+  Import took 0.025336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000628 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_AppButton_Backplate_Purple.mat
+  artifactKey: Guid(5ee2be8b1cb8f124fb9da6c8a8f3a2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_AppButton_Backplate_Purple.mat using Guid(5ee2be8b1cb8f124fb9da6c8a8f3a2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68126b3d723228452b1c32c1749e681') in 0.020092 seconds
+  Import took 0.024192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_AppButton_Backplate_Blue.mat
+  artifactKey: Guid(0fe725b7b93aeb04eb37f8e04ec836b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_AppButton_Backplate_Blue.mat using Guid(0fe725b7b93aeb04eb37f8e04ec836b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaeeabd69050174915d727f364454616') in 0.021527 seconds
+  Import took 0.025307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_4x1.png
+  artifactKey: Guid(eefa4193db056fe47849c4a46617cebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_4x1.png using Guid(eefa4193db056fe47849c4a46617cebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcda05deebe3fe7cea20688616172aaf') in 0.012308 seconds
+  Import took 0.016268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+  artifactKey: Guid(88e2e1bfe11ec6c438b0ade27eaeded1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx using Guid(88e2e1bfe11ec6c438b0ade27eaeded1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e319ddd86bc980f6d8d37a470c3c4fd8') in 0.081449 seconds
+  Import took 0.085476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab
+  artifactKey: Guid(c6a74181d4000004887343fb87b3c53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab using Guid(c6a74181d4000004887343fb87b3c53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934c3d6d9c6477aad28162f7fb80d83c') in 0.015614 seconds
+  Import took 0.019586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_Backplate_Circle.mat
+  artifactKey: Guid(e5b19f436fa946c4cb83869ff5c08dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_Backplate_Circle.mat using Guid(e5b19f436fa946c4cb83869ff5c08dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '520d093ba803f102f926691b96e2a015') in 0.019938 seconds
+  Import took 0.024133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_4x1.mat
+  artifactKey: Guid(9ff2d24666a1b6448a4816e92be49297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_4x1.mat using Guid(9ff2d24666a1b6448a4816e92be49297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8894c03353299da6718dc5a8a9f1d5df') in 0.013383 seconds
+  Import took 0.017067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_AppButton_Backplate_Yellow.mat
+  artifactKey: Guid(bde14142822798a4bb84445f490c6b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenu_AppButton_Backplate_Yellow.mat using Guid(bde14142822798a4bb84445f490c6b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8059f6cd3ff6364476d7070f45e8c3d2') in 0.019720 seconds
+  Import took 0.023465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x4.mat
+  artifactKey: Guid(e3876a0ad619a9d4e9ed117f8b21d830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x4.mat using Guid(e3876a0ad619a9d4e9ed117f8b21d830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e1dc865d2efc8e79811dbb48705f91') in 0.014360 seconds
+  Import took 0.018245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRTrackedKeyboard/OVRHandMask_L.prefab
+  artifactKey: Guid(9aaa891e0ba205049a65645fcd08743a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRTrackedKeyboard/OVRHandMask_L.prefab using Guid(9aaa891e0ba205049a65645fcd08743a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36507b330aed8e785bac5d6b2d98c18e') in 0.012864 seconds
+  Import took 0.016942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x2.mat
+  artifactKey: Guid(0056e30912ba4a047b02c085105dfbf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x2.mat using Guid(0056e30912ba4a047b02c085105dfbf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef20be6d307586a7edc8e4ef39ba944') in 0.014090 seconds
+  Import took 0.018283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
+  artifactKey: Guid(442d5b4503ed83c4897ef44659446587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx using Guid(442d5b4503ed83c4897ef44659446587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bdc9381b0d234c67a8a185e00dfd4af') in 0.022962 seconds
+  Import took 0.026983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab
+  artifactKey: Guid(e201a24a09e942042b93390d0444d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab using Guid(e201a24a09e942042b93390d0444d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f281d04a5732a0079461f63f7db0f2fc') in 0.016012 seconds
+  Import took 0.020085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x1.png
+  artifactKey: Guid(51fdf423af63ad64db2e978be70ebb5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x1.png using Guid(51fdf423af63ad64db2e978be70ebb5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a104b1d998863fd3a97f4194cb70aa') in 0.011403 seconds
+  Import took 0.015577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x3.mat
+  artifactKey: Guid(e4c510d2be9b6c8448ab5da849069379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x3.mat using Guid(e4c510d2be9b6c8448ab5da849069379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9236912dc87ec299bf3fc40a99066d37') in 0.013845 seconds
+  Import took 0.017896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x1_Circles.mat
+  artifactKey: Guid(69c05afc3438a35418a58af01704459a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x1_Circles.mat using Guid(69c05afc3438a35418a58af01704459a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a97ef71f13c522d2e4d4cdaa8f1ff71') in 0.013927 seconds
+  Import took 0.018411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x2.png
+  artifactKey: Guid(7a01aec622d5c984592cc4fcc5ec04e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x2.png using Guid(7a01aec622d5c984592cc4fcc5ec04e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec5625cd3d863202db48333a414b3c8') in 0.011826 seconds
+  Import took 0.015954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x4.png
+  artifactKey: Guid(79d312da0022bc14e98dfb839089c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x4.png using Guid(79d312da0022bc14e98dfb839089c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0ef5aec71afe789d9fe90c5d502af4') in 0.012238 seconds
+  Import took 0.015980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+  artifactKey: Guid(c00bf1ce0c68d5646ad7ea3d26b3486d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png using Guid(c00bf1ce0c68d5646ad7ea3d26b3486d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c9be0282d04e7ccb0686e0a01e02b4') in 0.180448 seconds
+  Import took 0.184267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x6.mat
+  artifactKey: Guid(6362701088f18d145badc467367785e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_3x6.mat using Guid(6362701088f18d145badc467367785e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4958ac8aeaab08c0f6c87cf4f7b62547') in 0.014775 seconds
+  Import took 0.018838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_Placeholder.mat
+  artifactKey: Guid(4d003936b535e82449c586474be12937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Materials/HandMenuIcon_Placeholder.mat using Guid(4d003936b535e82449c586474be12937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda21efb0710eaa5e3d2f5c696c14266') in 0.014172 seconds
+  Import took 0.017977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x3.png
+  artifactKey: Guid(2f784f6104ad25e4c8a20880441875c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandMenuLayout/Textures/HandMenu_Icon_3x3.png using Guid(2f784f6104ad25e4c8a20880441875c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a458886cb12b71691cc2e13c89960a4') in 0.012058 seconds
+  Import took 0.015973 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 12.62 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.7 MB.
+System memory in use after: 96.9 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3338.
+Total: 4.046600 ms (FindLiveObjects: 0.506100 ms CreateObjectMapping: 0.250100 ms MarkObjects: 3.252400 ms  DeleteObjects: 0.036200 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 13.20 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.7 MB.
+System memory in use after: 96.9 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3338.
+Total: 4.838300 ms (FindLiveObjects: 0.449400 ms CreateObjectMapping: 0.154200 ms MarkObjects: 4.206600 ms  DeleteObjects: 0.026100 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -9,8 +9,17 @@ EditorBuildSettings:
     path: Assets/MRTK-Online-2/Examples/PassthroughMultiplayerMRTK.unity
     guid: b8a6eb782dfc42c44a32de8025a5cfd4
   - enabled: 0
-    path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - HandCoach/Scenes/HandCoachExample.unity
-    guid: 58e887502677eb649950ada695c4ad38
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Samples/MRTKExamples/2.5.1/Joystick/JoystickExample.unity
+    guid: d10fbf20b47452c45a0f4f551d4541fd
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ExamplesHub/Scenes/MRTKExamplesHubMainMenu.unity
+    guid: 63a00118e809c754f9c7911bb85d635f
+  - enabled: 0
+    path: Assets/Samples/MRTKExamples/2.5.1/HandMenuLayout/Scenes/HandMenuLayoutExamples.unity
+    guid: 9e1c6bf44fb90c54dbf82acf2808c16f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b1a734d715cea0043bf356a4c3fc51f0,
       type: 2}
