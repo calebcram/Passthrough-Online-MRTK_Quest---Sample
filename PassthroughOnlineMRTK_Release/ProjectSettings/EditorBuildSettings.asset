@@ -15,8 +15,8 @@ EditorBuildSettings:
     path: Assets/Samples/MRTKExamples/2.5.1/Joystick/JoystickExample.unity
     guid: d10fbf20b47452c45a0f4f551d4541fd
   - enabled: 0
-    path: Assets/Samples/Mixed Reality Toolkit Examples/2.5.1/Experimental - ExamplesHub/Scenes/MRTKExamplesHubMainMenu.unity
-    guid: 63a00118e809c754f9c7911bb85d635f
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Samples/MRTKExamples/2.5.1/HandMenuLayout/Scenes/HandMenuLayoutExamples.unity
     guid: 9e1c6bf44fb90c54dbf82acf2808c16f
